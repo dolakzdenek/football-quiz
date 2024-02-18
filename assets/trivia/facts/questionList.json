@@ -1,0 +1,2304 @@
+[
+  {
+    "question": "Who was French national team captain on World Cup 1998?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "mundial1998",
+      "france",
+      "captains",
+      "goeshard"
+    ],
+    "answers": [
+      {
+        "answer": "Didier Deschamps",
+        "correct": true
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Thierry Henry",
+        "correct": false
+      },
+      {
+        "answer": "Marcel Desailly",
+        "correct": false
+      },
+      {
+        "answer": "Patrick Vieira",
+        "correct": false
+      },
+      {
+        "answer": "Emmanuel Petit",
+        "correct": false
+      }
+    ],
+    "note": "Didier Deschamps was the captain of the French national team on World Cup 1998.",
+    "level": 2
+  },
+  {
+    "question": "Who was the top scorer of World Cup 1998?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "mundial1998",
+      "topscorers",
+      "goeshard",
+      "balkan"
+    ],
+    "answers": [
+      {
+        "answer": "Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Davor Šuker",
+        "correct": true
+      },
+      {
+        "answer": "Luis Hernández",
+        "correct": false
+      },
+      {
+        "answer": "Christian Vieri",
+        "correct": false
+      },
+      {
+        "answer": "Gabriel Batistuta",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      }
+    ],
+    "note": "Davor Šuker was the top scorer of World Cup 1998.",
+    "level": 2
+  },
+  {
+    "question": "Who was the top scorer of World Cup 2002?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "mundial2002",
+      "topscorers",
+      "goeshard"
+    ],
+    "answers": [
+      {
+        "answer": "Ronaldo",
+        "correct": true
+      },
+      {
+        "answer": "Oliver Bierhoff",
+        "correct": false
+      },
+      {
+        "answer": "Miroslav Klose",
+        "correct": false
+      },
+      {
+        "answer": "Rivaldo",
+        "correct": false
+      },
+      {
+        "answer": "Michael Ballack",
+        "correct": false
+      },
+      {
+        "answer": "David Beckham",
+        "correct": false
+      }
+    ],
+    "note": "Ronaldo was the top scorer of World Cup 2002.",
+    "level": 2
+  },
+  {
+    "question": "Who was the top scorer of World Cup 2006?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "mundial2006",
+      "topscorers",
+      "goeshard",
+      "germany"
+    ],
+    "answers": [
+      {
+        "answer": "Miroslav Klose",
+        "correct": true
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Thierry Henry",
+        "correct": false
+      },
+      {
+        "answer": "Lukas Podolski",
+        "correct": false
+      },
+      {
+        "answer": "Andrea Pirlo",
+        "correct": false
+      },
+      {
+        "answer": "Fabio Cannavaro",
+        "correct": false
+      }
+    ],
+    "note": "Miroslav Klose was the top scorer of World Cup 2006.",
+    "level": 0
+  },
+  {
+    "question": "Who is the rival of FC Barcelona in the Spanish league?",
+    "categories": [
+      "football",
+      "laliga",
+      "rivalries",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Real Madrid",
+        "correct": true
+      },
+      {
+        "answer": "Atlético Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Sevilla FC",
+        "correct": false
+      },
+      {
+        "answer": "Valencia CF",
+        "correct": false
+      },
+      {
+        "answer": "FC Barcelona",
+        "correct": false
+      },
+      {
+        "answer": "Espanyol Barcelona",
+        "correct": false
+      }
+    ],
+    "note": "Real Madrid is the rival of FC Barcelona in the Spanish league, known for the 'El Clásico' matches.",
+    "level": 0
+  },
+  {
+    "question": "Which team won the UEFA Champions League in 2020?",
+    "categories": [
+      "football",
+      "CL",
+      "modern",
+      "winners"
+    ],
+    "answers": [
+      {
+        "answer": "FC Bayern Munich",
+        "correct": true
+      },
+      {
+        "answer": "Paris Saint-Germain",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool FC",
+        "correct": false
+      },
+      {
+        "answer": "FC Barcelona",
+        "correct": false
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Manchester City",
+        "correct": false
+      }
+    ],
+    "note": "FC Bayern Munich won the UEFA Champions League in 2020.",
+    "level": 0
+  },
+  {
+    "question": "Who won the FIFA Ballon d'Or in 2019?",
+    "categories": [
+      "football",
+      "Ballon d'Or",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Lionel Messi",
+        "correct": true
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Virgil van Dijk",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      },
+      {
+        "answer": "Robert Lewandowski",
+        "correct": false
+      },
+      {
+        "answer": "Neymar Jr",
+        "correct": false
+      }
+    ],
+    "note": "Lionel Messi won the FIFA Ballon d'Or in 2019.",
+    "level": 0
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup in 2018?",
+    "categories": [
+      "football",
+      "mundial",
+      "host",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Russia",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "South Africa",
+        "correct": false
+      },
+      {
+        "answer": "Qatar",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "USA",
+        "correct": false
+      }
+    ],
+    "note": "Russia hosted the FIFA World Cup in 2018.",
+    "level": 0
+  },
+  {
+    "question": "What is the home stadium of Manchester United?",
+    "categories": [
+      "football",
+      "PL",
+      "stadiums",
+      "MUFC",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Old Trafford",
+        "correct": true
+      },
+      {
+        "answer": "Anfield Road",
+        "correct": false
+      },
+      {
+        "answer": "Stamford Bridge",
+        "correct": false
+      },
+      {
+        "answer": "Etihad Stadium",
+        "correct": false
+      },
+      {
+        "answer": "Glazers Stadium",
+        "correct": false
+      },
+      {
+        "answer": "Man United Bridge",
+        "correct": false
+      }
+    ],
+    "note": "Old Trafford is the home stadium of Manchester United.",
+    "level": 0
+  },
+  {
+    "question": "Which player is known as 'The Egyptian King' in football?",
+    "categories": [
+      "football",
+      "PL",
+      "players",
+      "nicknames",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Mohamed Salah",
+        "correct": true
+      },
+      {
+        "answer": "Sadio Mané",
+        "correct": false
+      },
+      {
+        "answer": "Darwin Nuñez",
+        "correct": false
+      },
+      {
+        "answer": "Harry Kane",
+        "correct": false
+      },
+      {
+        "answer": "Pierre-Emerick Aubameyang",
+        "correct": false
+      },
+      {
+        "answer": "Caesar Azpilicueta",
+        "correct": false
+      }
+    ],
+    "note": "Mohamed Salah is known as 'The Egyptian King'.",
+    "level": 0
+  },
+  {
+    "question": "Which club does Erling Haaland play for as of 2024?",
+    "categories": [
+      "football",
+      "players",
+      "clubs",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Borussia Dortmund",
+        "correct": false
+      },
+      {
+        "answer": "FC Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Manchester City",
+        "correct": true
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Paris Saint-Germain",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool FC",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      }
+    ],
+    "note": "Erling Haaland plays for Manchester City as of 2024.",
+    "level": 0
+  },
+  {
+    "question": "Which country does Lionel Messi represent?",
+    "categories": [
+      "football",
+      "international",
+      "players",
+      "countries",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Argentina",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Uruguay",
+        "correct": false
+      }
+    ],
+    "note": "Lionel Messi represents Argentina.",
+    "level": 0
+  },
+  {
+    "question": "Which head coach let FC Liverpool win the Premier League in 2019/2020? And famously announced to leave the club in 2024?",
+    "categories": [
+      "football",
+      "PL",
+      "managers",
+      "LFC",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Jürgen Klopp",
+        "correct": true
+      },
+      {
+        "answer": "Pep Guardiola",
+        "correct": false
+      },
+      {
+        "answer": "José Mourinho",
+        "correct": false
+      },
+      {
+        "answer": "Frank Lampard",
+        "correct": false
+      },
+      {
+        "answer": "Steven Gerrard",
+        "correct": false
+      },
+      {
+        "answer": "Mauricio Pochettino",
+        "correct": false
+      }
+    ],
+    "note": "Jürgen Klopp let FC Liverpool win the Premier League in 2019/2020.",
+    "level": 1
+  },
+  {
+    "question": "Which team won the Premier League in the 2019/2020 season?",
+    "categories": [
+      "football",
+      "PL",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Liverpool FC",
+        "correct": true
+      },
+      {
+        "answer": "Manchester City",
+        "correct": false
+      },
+      {
+        "answer": "Chelsea FC",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Arsenal FC",
+        "correct": false
+      },
+      {
+        "answer": "Tottenham Hotspur",
+        "correct": false
+      }
+    ],
+    "note": "Liverpool FC won the Premier League in the 2019/2020 season.",
+    "level": 1
+  },
+  {
+    "question": "Which player transferred to Paris Saint-Germain in 2017 for a record fee?",
+    "categories": [
+      "football",
+      "transfers",
+      "PSG",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Neymar Jr",
+        "correct": true
+      },
+      {
+        "answer": "Kylian Mbappé",
+        "correct": false
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Luis Suárez",
+        "correct": false
+      },
+      {
+        "answer": "Paul Pogba",
+        "correct": false
+      }
+    ],
+    "note": "Neymar Jr transferred to Paris Saint-Germain in 2017 for a record fee.",
+    "level": 1
+  },
+  {
+    "question": "What is the nickname of the Italian national football team?",
+    "categories": [
+      "football",
+      "international",
+      "nicknames",
+      "italy",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Azzurri",
+        "correct": true
+      },
+      {
+        "answer": "Les Bleus",
+        "correct": false
+      },
+      {
+        "answer": "La Roja",
+        "correct": false
+      },
+      {
+        "answer": "Italian Lions",
+        "correct": false
+      },
+      {
+        "answer": "Seleção",
+        "correct": false
+      },
+      {
+        "answer": "Pizza Boys",
+        "correct": false
+      }
+    ],
+    "note": "The nickname of the Italian national football team is 'Azzurri'.",
+    "level": 1
+  },
+  {
+    "question": "Who scored the fastest goal in Premier League history?",
+    "categories": [
+      "football",
+      "PL",
+      "records",
+      "goals",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Shane Long",
+        "correct": true
+      },
+      {
+        "answer": "Alan Shearer",
+        "correct": false
+      },
+      {
+        "answer": "Thierry Henry",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Agüero",
+        "correct": false
+      },
+      {
+        "answer": "Harry Kane",
+        "correct": false
+      },
+      {
+        "answer": "Mohamed Salah",
+        "correct": false
+      }
+    ],
+    "note": "Shane Long scored the fastest goal in Premier League history. In a match between Southampton and Watford on 23 April 2019, he scored after 7.69 seconds.",
+    "level": 2
+  },
+  {
+    "question": "Which team is known as 'The Gunners'?",
+    "categories": [
+      "football",
+      "PL",
+      "nicknames",
+      "clubs",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Arsenal FC",
+        "correct": true
+      },
+      {
+        "answer": "Chelsea FC",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool FC",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Tottenham Hotspur",
+        "correct": false
+      },
+      {
+        "answer": "Manchester City",
+        "correct": false
+      }
+    ],
+    "note": "Arsenal FC is known as 'The Gunners'.",
+    "level": 0
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 2016?",
+    "categories": [
+      "football",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Portugal",
+        "correct": true
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      }
+    ],
+    "note": "Portugal won the UEFA European Championship in 2016. They defeated France in the final. Eder scored the winning goal in extra time.",
+    "level": 1
+  },
+  {
+    "question": "Who is known as 'CR7'?",
+    "categories": [
+      "football",
+      "players",
+      "nicknames",
+      "CR7",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": true
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Neymar Jr",
+        "correct": false
+      },
+      {
+        "answer": "Kylian Mbappé",
+        "correct": false
+      },
+      {
+        "answer": "Luis Suárez",
+        "correct": false
+      },
+      {
+        "answer": "Zlatan Ibrahimović",
+        "correct": false
+      }
+    ],
+    "note": "Cristiano Ronaldo is known as 'CR7'.",
+    "level": 0
+  },
+  {
+    "question": "Which club won the most UEFA Champions League titles?",
+    "categories": [
+      "football",
+      "CL",
+      "winners",
+      "records",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Real Madrid",
+        "correct": true
+      },
+      {
+        "answer": "FC Barcelona",
+        "correct": false
+      },
+      {
+        "answer": "AC Milan",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool FC",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      }
+    ],
+    "note": "Real Madrid has won the most UEFA Champions League titles.",
+    "level": 0
+  },
+  {
+    "question": "Who holds the record for most goals in a single Premier League season?",
+    "categories": [
+      "football",
+      "PL",
+      "records",
+      "goals",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Mohamed Salah",
+        "correct": true
+      },
+      {
+        "answer": "Alan Shearer",
+        "correct": false
+      },
+      {
+        "answer": "Luis Suárez",
+        "correct": false
+      },
+      {
+        "answer": "Harry Kane",
+        "correct": false
+      },
+      {
+        "answer": "Thierry Henry",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Agüero",
+        "correct": false
+      }
+    ],
+    "note": "Mohamed Salah holds the record for most goals in a single Premier League season.",
+    "level": 0
+  },
+  {
+    "question": "What color is traditionally associated with Manchester City?",
+    "categories": [
+      "football",
+      "PL",
+      "clubs",
+      "colors",
+      "MCFC",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Sky Blue",
+        "correct": true
+      },
+      {
+        "answer": "Rose Pink",
+        "correct": false
+      },
+      {
+        "answer": "Rainbow Stripes",
+        "correct": false
+      },
+      {
+        "answer": "Grass Green",
+        "correct": false
+      },
+      {
+        "answer": "Dark Red",
+        "correct": false
+      },
+      {
+        "answer": "Red & Blue",
+        "correct": false
+      }
+    ],
+    "note": "Sky Blue is traditionally associated with Manchester City. Their home kit is sky blue and white.",
+    "level": 0
+  },
+  {
+    "question": "Which player is nicknamed 'La Pulga'?",
+    "categories": [
+      "football",
+      "international",
+      "players",
+      "nicknames",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Lionel Messi",
+        "correct": true
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Neymar Jr",
+        "correct": false
+      },
+      {
+        "answer": "Andrés Iniesta",
+        "correct": false
+      },
+      {
+        "answer": "Luis Suárez",
+        "correct": false
+      },
+      {
+        "answer": "Kylian Mbappé",
+        "correct": false
+      }
+    ],
+    "note": "Lionel Messi is nicknamed 'La Pulga'.",
+    "level": 1
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "host",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Russia",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Argentina",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      }
+    ],
+    "note": "France won the FIFA World Cup in 2018, hosted by Russia.",
+    "level": 0
+  },
+  {
+    "question": "Which country is the most recent FIFA World Cup winner as of 2022?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Qatar",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Argentina",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      }
+    ],
+    "note": "Argentina won the most recent FIFA World Cup as of 2022.",
+    "level": 0
+  },
+  {
+    "question": "What is the official international governing body of football?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "UEFA",
+        "correct": false
+      },
+      {
+        "answer": "FIFA",
+        "correct": true
+      },
+      {
+        "answer": "CONMEBOL",
+        "correct": false
+      },
+      {
+        "answer": "CONCACAF",
+        "correct": false
+      },
+      {
+        "answer": "AFC",
+        "correct": false
+      },
+      {
+        "answer": "CAF",
+        "correct": false
+      }
+    ],
+    "note": "FIFA is the official international governing body of football.",
+    "level": 0
+  },
+  {
+    "question": "In which year was the first FIFA World Cup held?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "1930",
+        "correct": true
+      },
+      {
+        "answer": "1940",
+        "correct": false
+      },
+      {
+        "answer": "1950",
+        "correct": false
+      },
+      {
+        "answer": "1960",
+        "correct": false
+      },
+      {
+        "answer": "1970",
+        "correct": false
+      },
+      {
+        "answer": "1980",
+        "correct": false
+      }
+    ],
+    "note": "The first FIFA World Cup was held in 1930.",
+    "level": 0
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup in 2014?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Brazil",
+        "correct": true
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "South Africa",
+        "correct": false
+      },
+      {
+        "answer": "Russia",
+        "correct": false
+      },
+      {
+        "answer": "Qatar",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      }
+    ],
+    "note": "Brazil hosted the FIFA World Cup in 2014.",
+    "level": 0
+  },
+  {
+    "question": "How often is the FIFA World Cup held?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Every 2 years",
+        "correct": false
+      },
+      {
+        "answer": "Every 3 years",
+        "correct": false
+      },
+      {
+        "answer": "Every 4 years",
+        "correct": true
+      },
+      {
+        "answer": "Every 5 years",
+        "correct": false
+      },
+      {
+        "answer": "Every 6 years",
+        "correct": false
+      },
+      {
+        "answer": "Every year",
+        "correct": false
+      }
+    ],
+    "note": "The FIFA World Cup is held every 4 years.",
+    "level": 0
+  },
+  {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Brazil",
+        "correct": true
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Argentina",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      }
+    ],
+    "note": "Brazil has won the most FIFA World Cup titles.",
+    "level": 0
+  },
+  {
+    "question": "What is the nickname of the South African national football team?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Bafana Bafana",
+        "correct": true
+      },
+      {
+        "answer": "The Lions",
+        "correct": false
+      },
+      {
+        "answer": "The Samurai Blue",
+        "correct": false
+      },
+      {
+        "answer": "The Socceroos",
+        "correct": false
+      },
+      {
+        "answer": "The Red Devils",
+        "correct": false
+      },
+      {
+        "answer": "Les Bleus",
+        "correct": false
+      }
+    ],
+    "note": "The nickname of the South African national football team is Bafana Bafana.",
+    "level": 0
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 2020?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Portugal",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": true
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      }
+    ],
+    "note": "Italy won the UEFA European Championship in 2020.",
+    "level": 0
+  },
+  {
+    "question": "Who is the president of FIFA as of 2022?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Gianni Infantino",
+        "correct": true
+      },
+      {
+        "answer": "Sepp Blatter",
+        "correct": false
+      },
+      {
+        "answer": "Michel Platini",
+        "correct": false
+      },
+      {
+        "answer": "Aleksander Čeferin",
+        "correct": false
+      },
+      {
+        "answer": "Issa Hayatou",
+        "correct": false
+      },
+      {
+        "answer": "Lennart Johansson",
+        "correct": false
+      }
+    ],
+    "note": "Gianni Infantino is the president of FIFA as of 2022.",
+    "level": 0
+  },
+  {
+    "question": "Which country's national team is known as 'La Albiceleste'?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Argentina",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      }
+    ],
+    "note": "Argentina's national team is known as 'La Albiceleste'.",
+    "level": 0
+  },
+  {
+    "question": "Which country won FIFA World Cup in 2018?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Croatia",
+        "correct": false
+      },
+      {
+        "answer": "Belgium",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": true
+      },
+      {
+        "answer": "England",
+        "correct": false
+      },
+      {
+        "answer": "Russia",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "France won its second FIFA World Cup in 2018. They defeated Croatia 4-2 in the final.",
+    "level": 1
+  },
+  {
+    "question": "Who scored the winning goal for Germany in the 2014 FIFA World Cup final?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "goals"
+    ],
+    "answers": [
+      {
+        "answer": "Miroslav Klose",
+        "correct": false
+      },
+      {
+        "answer": "Thomas Müller",
+        "correct": false
+      },
+      {
+        "answer": "Mario Götze",
+        "correct": true
+      },
+      {
+        "answer": "Mesut Özil",
+        "correct": false
+      },
+      {
+        "answer": "Toni Kroos",
+        "correct": false
+      },
+      {
+        "answer": "Andre Schürrle",
+        "correct": false
+      }
+    ],
+    "note": "Mario Götze scored the winning goal for Germany in the 2014 FIFA World Cup final against Argentina.",
+    "level": 1
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup for the first time in 2010?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "host"
+    ],
+    "answers": [
+      {
+        "answer": "South Africa",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Japan",
+        "correct": false
+      },
+      {
+        "answer": "Russia",
+        "correct": false
+      },
+      {
+        "answer": "Qatar",
+        "correct": false
+      }
+    ],
+    "note": "South Africa hosted the FIFA World Cup for the first time in 2010, making it the first African nation to do so.",
+    "level": 1
+  },
+  {
+    "question": "Who won the Golden Ball (Best Player) at the FIFA World Cup 2018?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "awards"
+    ],
+    "answers": [
+      {
+        "answer": "Kylian Mbappé",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modrić",
+        "correct": true
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Antoine Griezmann",
+        "correct": false
+      },
+      {
+        "answer": "Eden Hazard",
+        "correct": false
+      }
+    ],
+    "note": "Luka Modrić won the Golden Ball (Best Player) at the FIFA World Cup 2018. He captained Croatia to the final, where they lost to France.",
+    "level": 1
+  },
+  {
+    "question": "Which country has appeared in three FIFA World Cup finals but has never won the tournament?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "records"
+    ],
+    "answers": [
+      {
+        "answer": "Netherlands",
+        "correct": true
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      },
+      {
+        "answer": "Belgium",
+        "correct": false
+      },
+      {
+        "answer": "Croatia",
+        "correct": false
+      },
+      {
+        "answer": "Sweden",
+        "correct": false
+      },
+      {
+        "answer": "Hungary",
+        "correct": false
+      }
+    ],
+    "note": "Netherlands has appeared in three FIFA World Cup finals (1974, 1978, 2010) but has never won the tournament.",
+    "level": 1
+  },
+  {
+    "question": "Which player scored the most goals in FIFA World Cup tournaments?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "records",
+      "goals"
+    ],
+    "answers": [
+      {
+        "answer": "Miroslav Klose",
+        "correct": true
+      },
+      {
+        "answer": "Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Pele",
+        "correct": false
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Diego Maradona",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      }
+    ],
+    "note": "Miroslav Klose scored the most goals in FIFA World Cup tournaments, with a total of 16 goals.",
+    "level": 1
+  },
+  {
+    "question": "Which team won the first FIFA World Cup held in 1930?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "history"
+    ],
+    "answers": [
+      {
+        "answer": "Uruguay",
+        "correct": true
+      },
+      {
+        "answer": "Argentina",
+        "correct": false
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      }
+    ],
+    "note": "Uruguay won the first FIFA World Cup held in 1930, defeating Argentina in the final.",
+    "level": 1
+  },
+  {
+    "question": "Which player has won the most FIFA World Cups?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "records"
+    ],
+    "answers": [
+      {
+        "answer": "Pele",
+        "correct": true
+      },
+      {
+        "answer": "Diego Maradona",
+        "correct": false
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Franz Beckenbauer",
+        "correct": false
+      }
+    ],
+    "note": "Pele has won the most FIFA World Cups, with a total of three victories (1958, 1962, 1970).",
+    "level": 1
+  },
+  {
+    "question": "Which country's national team is known as 'The Three Lions'?",
+    "categories": [
+      "football",
+      "international",
+      "nicknames",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "England",
+        "correct": true
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      }
+    ],
+    "note": "England's national team is known as 'The Three Lions'. The nickname comes from the Royal Arms of England.",
+    "level": 1
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 2012?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Spain",
+        "correct": true
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      }
+    ],
+    "note": "Spain won the UEFA European Championship in 2012, defeating Italy 4-0 in the final.",
+    "level": 1
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 2008?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Spain",
+        "correct": true
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      }
+    ],
+    "note": "Spain won the UEFA European Championship in 2008, defeating Germany 1-0 in the final.",
+    "level": 1
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 2004?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Greece",
+        "correct": true
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      }
+    ],
+    "note": "Greece won the UEFA European Championship in 2004, defeating Portugal 1-0 in the final.",
+    "level": 1
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1996?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Germany",
+        "correct": true
+      },
+      {
+        "answer": "Czech Republic",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      }
+    ],
+    "note": "Germany won the UEFA European Championship in 1996, defeating Czech Republic 2-1 in the final.",
+    "level": 1
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1988?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Netherlands",
+        "correct": true
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "Netherlands won the UEFA European Championship in 1988, defeating Soviet Union 2-0 in the final.",
+    "level": 2
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1984?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "France",
+        "correct": true
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Czechoslovakia",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "France won the UEFA European Championship in 1984, defeating Spain 2-0 in the final.",
+    "level": 2
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1980?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "West Germany",
+        "correct": true
+      },
+      {
+        "answer": "Belgium",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "West Germany won the UEFA European Championship in 1980, defeating Belgium 2-1 in the final.",
+    "level": 2
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1976?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Czechoslovakia",
+        "correct": true
+      },
+      {
+        "answer": "West Germany",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "Czechoslovakia won the UEFA European Championship in 1976, defeating West Germany 5-3 on penalties in the final.",
+    "level": 3
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1972?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "West Germany",
+        "correct": true
+      },
+      {
+        "answer": "Belgium",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "West Germany won the UEFA European Championship in 1972, defeating Soviet Union 3-0 in the final.",
+    "level": 3
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1968?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Italy",
+        "correct": true
+      },
+      {
+        "answer": "West Germany",
+        "correct": false
+      },
+      {
+        "answer": "Spain",
+        "correct": false
+      },
+      {
+        "answer": "England",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "Italy won the UEFA European Championship in 1968, defeating Yugoslavia 2-0 in the final.",
+    "level": 3
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1964?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Spain",
+        "correct": true
+      },
+      {
+        "answer": "Soviet Union",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "West Germany",
+        "correct": false
+      },
+      {
+        "answer": "Netherlands",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "Spain won the UEFA European Championship in 1964, defeating Soviet Union 2-1 in the final.",
+    "level": 3
+  },
+  {
+    "question": "Which country won the UEFA European Championship in 1960?",
+    "categories": [
+      "football",
+      "international",
+      "euro",
+      "winners",
+      "modern"
+    ],
+    "answers": [
+      {
+        "answer": "Soviet Union",
+        "correct": true
+      },
+      {
+        "answer": "Yugoslavia",
+        "correct": false
+      },
+      {
+        "answer": "Czechoslovakia",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "West Germany",
+        "correct": false
+      },
+      {
+        "answer": "Portugal",
+        "correct": false
+      }
+    ],
+    "note": "Soviet Union won the inaugural UEFA European Championship in 1960, defeating Yugoslavia 2-1 in the final.",
+    "level": 3
+  },
+  {
+    "question": "Which country won the first FIFA World Cup held in 1930?",
+    "categories": [
+      "football",
+      "international",
+      "mundial",
+      "modern",
+      "history"
+    ],
+    "answers": [
+      {
+        "answer": "Uruguay",
+        "correct": true
+      },
+      {
+        "answer": "Argentina",
+        "correct": false
+      },
+      {
+        "answer": "Brazil",
+        "correct": false
+      },
+      {
+        "answer": "Italy",
+        "correct": false
+      },
+      {
+        "answer": "Germany",
+        "correct": false
+      },
+      {
+        "answer": "France",
+        "correct": false
+      }
+    ],
+    "note": "Uruguay won the first FIFA World Cup held in 1930, defeating Argentina 4-2 in the final.",
+    "level": 3
+  },
+  {
+    "question": "In which year did Lionel Messi win his first FIFA World Cup?",
+    "categories": [
+      "international",
+      "mundial",
+      "players"
+    ],
+    "answers": [
+      {
+        "answer": "Not yet won",
+        "correct": true
+      },
+      {
+        "answer": "2014",
+        "correct": false
+      },
+      {
+        "answer": "2010",
+        "correct": false
+      },
+      {
+        "answer": "2006",
+        "correct": false
+      },
+      {
+        "answer": "2018",
+        "correct": false
+      },
+      {
+        "answer": "2022",
+        "correct": false
+      }
+    ],
+    "level": 1,
+    "note": "Lionel Messi has not yet won a FIFA World Cup. He has played in four tournaments (2006, 2010, 2014, 2018) and has yet to win the trophy."
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal in a World Cup match?",
+    "categories": [
+      "international",
+      "mundial",
+      "players"
+    ],
+    "answers": [
+      {
+        "answer": "Diego Maradona",
+        "correct": true
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Pelé",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Ronaldinho",
+        "correct": false
+      }
+    ],
+    "level": 1,
+    "note": "Diego Maradona scored the 'Hand of God' goal in a World Cup match. It was during the 1986 FIFA World Cup quarter-final between Argentina and England."
+  },
+  {
+    "question": "Who is the all-time top scorer for the England national football team?",
+    "categories": [
+      "international",
+      "players",
+      "records"
+    ],
+    "answers": [
+      {
+        "answer": "Wayne Rooney",
+        "correct": true
+      },
+      {
+        "answer": "Bobby Charlton",
+        "correct": false
+      },
+      {
+        "answer": "Harry Kane",
+        "correct": false
+      },
+      {
+        "answer": "Gary Lineker",
+        "correct": false
+      },
+      {
+        "answer": "Michael Owen",
+        "correct": false
+      },
+      {
+        "answer": "David Beckham",
+        "correct": false
+      }
+    ],
+    "level": 1,
+    "note": "Wayne Rooney is the all-time top scorer for the England national football team, with 53 goals."
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal in a World Cup match?",
+    "categories": [
+      "international",
+      "mundial",
+      "players"
+    ],
+    "answers": [
+      {
+        "answer": "Diego Maradona",
+        "correct": true
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Pelé",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Ronaldinho",
+        "correct": false
+      }
+    ],
+    "level": 1,
+    "note": "Diego Maradona scored the 'Hand of God' goal in a World Cup match. It was during the 1986 FIFA World Cup quarter-final between Argentina and England."
+  },
+]

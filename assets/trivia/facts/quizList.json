@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Very Easy International",
+    "categories": [
+      "international",
+      "mundial",
+      "euro"
+    ],
+    "numberOfQ": 10,
+    "levels": [
+      0
+    ],
+    "note": "This quiz is for beginners. It contains questions about international football.",
+    "image": "assets/trivia/images/quiz1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Easy International",
+    "categories": [
+      "international",
+      "mundial",
+      "euro"
+    ],
+    "numberOfQ": 15,
+    "levels": [
+      1
+    ],
+    "note": "This quiz is for beginners. It contains questions about international football.",
+    "image": "assets/trivia/images/quiz2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Medium International",
+    "categories": [
+      "international",
+      "mundial",
+      "euro"
+    ],
+    "numberOfQ": 15,
+    "levels": [
+      2
+    ],
+    "note": "This quiz is for beginners. It contains questions about international football.",
+    "image": "assets/trivia/images/quiz3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hard International",
+    "categories": [
+      "international",
+      "mundial",
+      "euro"
+    ],
+    "numberOfQ": 2,
+    "levels": [
+      3
+    ],
+    "note": "This quiz is for beginners. It contains questions about international football.",
+    "image": "assets/trivia/images/quiz4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Very Hard International",
+    "categories": [
+      "international",
+      "mundial",
+      "euro"
+    ],
+    "numberOfQ": 20,
+    "numberOfA": 6,
+    "levels": [
+      4
+    ],
+    "note": "This quiz is for beginners. It contains questions about international football.",
+    "image": "assets/trivia/images/quiz5.jpg"
+  }
+]

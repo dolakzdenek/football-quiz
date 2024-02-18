@@ -42,6 +42,13 @@ const theme = createTheme({
       textAlign: 'center',
       color: 'textColor',
     },
+    question: {
+      fontWeight: 'bold',
+      fontSize: 18,
+      textAlign: 'center',
+      color: 'textColor',
+      padding: 'm'
+    },
     defaults: {
       // We can define a default text variant here.
     },
@@ -49,8 +56,7 @@ const theme = createTheme({
   boxVariants: {
     defaults: {
       flex: 1,
-      justifyContent: 'center',
-      alignItems: 'center',
+    //alignItems: 'center',
       backgroundColor: 'mainBackground',
     },
     main: {
