@@ -6,19 +6,19 @@ import { MainBox } from '../components/MainBox'
 import { MainText } from '../components/MainText'
 import { Input } from '../components/Input'
 import { Button } from '../components/Button'
+import { Flag } from '../components/misc/Flag'
 
 export const storage = new MMKV()
 
 const Landing = () => {
   const [name, setName] = React.useState<string>(storage.getString('user.name') || '')
+  const [country, setCountry] = React.useState<string>(storage.getString('user.country') || '')
   const navigation = useNavigation()
-  const flag = require('../../assets/images/flags/h240/ug.png')
-
-  console.log('name', flag)
 
   const startQuiz = () => {
     console.log('Quiz Started', name)
     storage.set('user.name', name)
+    storage.set('user.country', country)
     navigation.navigate('QuizMenu')
   }
 
@@ -40,8 +40,15 @@ const Landing = () => {
             onChangeText={setName}
             placeholder="Enter your name"
           />
-          <View style={{ width: 150, height: 150, borderRadius: 150, overflow: "hidden", backgroundColor: 'white' }}>
-            <Image source={flag} resizeMode="contain" />
+          <View style={{ flexDirection: 'row', justifyContent: 'center', alignContent: 'center', alignItems: 'center' }}>
+            <Input
+              value={country}
+              onChangeText={setCountry}
+              placeholder="Select your country"
+            />
+            <View style={{ position: 'absolute', right: -30 }}>
+              <Flag code={country} />
+            </View>
           </View>
           <Button label="Start Quiz" onPress={startQuiz} />
         </View>

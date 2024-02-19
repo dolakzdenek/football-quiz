@@ -1061,7 +1061,7 @@
       }
     ],
     "note": "The first FIFA World Cup was held in 1930.",
-    "level": 0
+    "level": 1
   },
   {
     "question": "Which country hosted the FIFA World Cup in 2014?",
@@ -2155,7 +2155,7 @@
       }
     ],
     "note": "Uruguay won the first FIFA World Cup held in 1930, defeating Argentina 4-2 in the final.",
-    "level": 3
+    "level": 2
   },
   {
     "question": "In which year did Lionel Messi win his first FIFA World Cup?",
@@ -2301,4 +2301,2691 @@
     "level": 1,
     "note": "Diego Maradona scored the 'Hand of God' goal in a World Cup match. It was during the 1986 FIFA World Cup quarter-final between Argentina and England."
   },
+  {
+    "question": "Which player has the most yellow cards in World Cup history?",
+    "categories": [
+      "international",
+      "mundial",
+      "history"
+    ],
+    "answers": [
+      {
+        "answer": "Clarence Seedorf",
+        "correct": false
+      },
+      {
+        "answer": "Rafael Marquez",
+        "correct": true
+      },
+      {
+        "answer": "Diego Maradona",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Lilian Thuram",
+        "correct": false
+      },
+      {
+        "answer": "Roberto Carlos",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "A true test of World Cup disciplinary record knowledge."
+  },
+  {
+    "question": "In which World Cup did the 'Battle of Nuremberg' match between Portugal and the Netherlands take place?",
+    "categories": [
+      "international",
+      "mundial",
+      "history"
+    ],
+    "answers": [
+      {
+        "answer": "2006",
+        "correct": true
+      },
+      {
+        "answer": "2002",
+        "correct": false
+      },
+      {
+        "answer": "2010",
+        "correct": false
+      },
+      {
+        "answer": "1998",
+        "correct": false
+      },
+      {
+        "answer": "2014",
+        "correct": false
+      },
+      {
+        "answer": "1994",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "Refers to a match notorious for its high number of yellow and red cards."
+  },
+  {
+    "question": "Which footballer is known for missing the decisive penalty in the 1994 FIFA World Cup final?",
+    "categories": [
+      "international",
+      "mundial",
+      "history"
+    ],
+    "answers": [
+      {
+        "answer": "Roberto Baggio",
+        "correct": true
+      },
+      {
+        "answer": "Franco Baresi",
+        "correct": false
+      },
+      {
+        "answer": "Paolo Maldini",
+        "correct": false
+      },
+      {
+        "answer": "Taffarel",
+        "correct": false
+      },
+      {
+        "answer": "Dunga",
+        "correct": false
+      },
+      {
+        "answer": "Romário",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "Roberto Baggio missed the decisive penalty in the 1994 FIFA World Cup final, allowing Brazil to win the tournament."
+  },
+  {
+    "question": "Which Borussia Dortmund player scored the fastest goal in Champions League history?",
+    "categories": [
+      "CL",
+      "records"
+    ],
+    "answers": [
+      {
+        "answer": "Roy Makaay",
+        "correct": false
+      },
+      {
+        "answer": "Marco Reus",
+        "correct": false
+      },
+      {
+        "answer": "Robert Lewandowski",
+        "correct": false
+      },
+      {
+        "answer": "Erling Haaland",
+        "correct": false
+      },
+      {
+        "answer": "Giovanni Reyna",
+        "correct": false
+      },
+      {
+        "answer": "None of the above",
+        "correct": true
+      }
+    ],
+    "level": 4,
+    "note": "The fastest goal in Champions League history was scored by Roy Makaay of Bayern Munich, not a Borussia Dortmund player. Trick question."
+  },
+  {
+    "question": "In which year did Borussia Dortmund win their first UEFA Champions League title?",
+    "categories": [
+      "CL",
+      "BVB"
+    ],
+    "answers": [
+      {
+        "answer": "1997",
+        "correct": true
+      },
+      {
+        "answer": "1996",
+        "correct": false
+      },
+      {
+        "answer": "1995",
+        "correct": false
+      },
+      {
+        "answer": "2001",
+        "correct": false
+      },
+      {
+        "answer": "2003",
+        "correct": false
+      },
+      {
+        "answer": "2013",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Borussia Dortmund won their first UEFA Champions League title in 1997, defeating Juventus in the final."
+  },
+  {
+    "question": "Who scored Borussia Dortmund's winning goal in the 1997 UEFA Champions League final?",
+    "categories": [
+      "CL",
+      "BVB"
+    ],
+    "answers": [
+      {
+        "answer": "Lars Ricken",
+        "correct": true
+      },
+      {
+        "answer": "Karl-Heinz Riedle",
+        "correct": false
+      },
+      {
+        "answer": "Matthias Sammer",
+        "correct": false
+      },
+      {
+        "answer": "Stephane Chapuisat",
+        "correct": false
+      },
+      {
+        "answer": "Andreas Möller",
+        "correct": false
+      },
+      {
+        "answer": "Jürgen Kohler",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Lars Ricken scored Borussia Dortmund's winning goal in the 1997 UEFA Champions League final against Juventus."
+  },
+  {
+    "question": "Against which team did Borussia Dortmund secure their 1997 UEFA Champions League title?",
+    "categories": [
+      "CL",
+      "BVB"
+    ],
+    "answers": [
+      {
+        "answer": "Juventus",
+        "correct": true
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "AC Milan",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Borussia Dortmund secured their 1997 UEFA Champions League title by defeating Juventus in the final."
+  },
+  {
+    "question": "How many times has Borussia Dortmund reached the UEFA Champions League final as of 2024?",
+    "categories": [
+      "CL",
+      "BVB"
+    ],
+    "answers": [
+      {
+        "answer": "2",
+        "correct": true
+      },
+      {
+        "answer": "1",
+        "correct": false
+      },
+      {
+        "answer": "3",
+        "correct": false
+      },
+      {
+        "answer": "4",
+        "correct": false
+      },
+      {
+        "answer": "5",
+        "correct": false
+      },
+      {
+        "answer": "6",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Borussia Dortmund has reached the UEFA Champions League final twice as of 2024, winning the title once in 1997."
+  },
+  {
+    "question": "In what year did Viktoria Plzen make their debut in the UEFA Champions League group stage?",
+    "categories": [
+      "CL"
+    ],
+    "answers": [
+      {
+        "answer": "2010",
+        "correct": false
+      },
+      {
+        "answer": "2011",
+        "correct": true
+      },
+      {
+        "answer": "2012",
+        "correct": false
+      },
+      {
+        "answer": "2013",
+        "correct": false
+      },
+      {
+        "answer": "2014",
+        "correct": false
+      },
+      {
+        "answer": "2015",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Which team did Viktoria Plzen defeat in the 2011-2012 UEFA Champions League play-off to qualify for the group stage for the first time?",
+    "categories": [
+      "CL"
+    ],
+    "answers": [
+      {
+        "answer": "Rosenborg",
+        "correct": false
+      },
+      {
+        "answer": "FC Basel",
+        "correct": false
+      },
+      {
+        "answer": "Celtic",
+        "correct": false
+      },
+      {
+        "answer": "FC København",
+        "correct": true
+      },
+      {
+        "answer": "Dinamo Zagreb",
+        "correct": false
+      },
+      {
+        "answer": "Maribor",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "What was Viktoria Plzen's highest margin of victory in a UEFA Champions League group stage match?",
+    "categories": [
+      "CL"
+    ],
+    "answers": [
+      {
+        "answer": "3-0",
+        "correct": false
+      },
+      {
+        "answer": "3-1",
+        "correct": false
+      },
+      {
+        "answer": "2-0",
+        "correct": true
+      },
+      {
+        "answer": "4-1",
+        "correct": false
+      },
+      {
+        "answer": "5-0",
+        "correct": false
+      },
+      {
+        "answer": "4-0",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Who was the top scorer for Viktoria Plzen in their 2011-2012 UEFA Champions League campaign?",
+    "categories": [
+      "CL"
+    ],
+    "answers": [
+      {
+        "answer": "Marek Bakoš",
+        "correct": true
+      },
+      {
+        "answer": "Michal Ďuriš",
+        "correct": false
+      },
+      {
+        "answer": "Milan Petržela",
+        "correct": false
+      },
+      {
+        "answer": "Daniel Kolář",
+        "correct": false
+      },
+      {
+        "answer": "Pavel Horváth",
+        "correct": false
+      },
+      {
+        "answer": "František Rajtoral",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Against which team did Viktoria Plzen record their first ever UEFA Champions League group stage win?",
+    "categories": [
+      "CL"
+    ],
+    "answers": [
+      {
+        "answer": "AC Milan",
+        "correct": false
+      },
+      {
+        "answer": "BATE Borisov",
+        "correct": true
+      },
+      {
+        "answer": "Barcelona",
+        "correct": false
+      },
+      {
+        "answer": "Manchester City",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Which FC Porto player scored the opening goal in the 2004 UEFA Champions League final?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Carlos Alberto",
+        "correct": true
+      },
+      {
+        "answer": "Deco",
+        "correct": false
+      },
+      {
+        "answer": "Derlei",
+        "correct": false
+      },
+      {
+        "answer": "Benni McCarthy",
+        "correct": false
+      },
+      {
+        "answer": "Maniche",
+        "correct": false
+      },
+      {
+        "answer": "Pedro Mendes",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In what year did FC Porto first win the UEFA Champions League (formerly European Cup)?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "1987",
+        "correct": true
+      },
+      {
+        "answer": "2004",
+        "correct": false
+      },
+      {
+        "answer": "1978",
+        "correct": false
+      },
+      {
+        "answer": "1995",
+        "correct": false
+      },
+      {
+        "answer": "1984",
+        "correct": false
+      },
+      {
+        "answer": "1999",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "FC Porto first won the UEFA Champions League in 1987, defeating Bayern Munich in the final."
+  },
+  {
+    "question": "Who was the FC Porto manager when they won the UEFA Champions League in 2004?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "José Mourinho",
+        "correct": true
+      },
+      {
+        "answer": "Jesualdo Ferreira",
+        "correct": false
+      },
+      {
+        "answer": "André Villas-Boas",
+        "correct": false
+      },
+      {
+        "answer": "Julen Lopetegui",
+        "correct": false
+      },
+      {
+        "answer": "Víctor Fernández",
+        "correct": false
+      },
+      {
+        "answer": "Sérgio Conceição",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "José Mourinho was the manager of FC Porto when they won the UEFA Champions League in 2004. It was his first UEFA Champions League title."
+  },
+  {
+    "question": "Against which team did FC Porto play in the 2004 UEFA Champions League final?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "AS Monaco",
+        "correct": true
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Arsenal",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Chelsea",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "FC Porto played AS Monaco in the 2004 UEFA Champions League final, winning 3-0."
+  },
+  {
+    "question": "Which FC Porto player was awarded the UEFA Champions League Best Midfielder in the 2003-2004 season?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Deco",
+        "correct": true
+      },
+      {
+        "answer": "Maniche",
+        "correct": false
+      },
+      {
+        "answer": "Costinha",
+        "correct": false
+      },
+      {
+        "answer": "Ricardo Carvalho",
+        "correct": false
+      },
+      {
+        "answer": "Paulo Ferreira",
+        "correct": false
+      },
+      {
+        "answer": "Benni McCarthy",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "Deco was awarded the UEFA Champions League Best Midfielder in the 2003-2004 season."
+  },
+  {
+    "question": "Which Benfica player scored a hat-trick in a UEFA Champions League match in the 2010s decade?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Oscar Cardozo",
+        "correct": false
+      },
+      {
+        "answer": "Jonas",
+        "correct": false
+      },
+      {
+        "answer": "Raúl Jiménez",
+        "correct": false
+      },
+      {
+        "answer": "Eduardo Salvio",
+        "correct": false
+      },
+      {
+        "answer": "Rodrigo",
+        "correct": true
+      },
+      {
+        "answer": "Pizzi",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In what year did Benfica reach the UEFA Champions League quarter-finals for the first time in the 21st century?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "2004",
+        "correct": false
+      },
+      {
+        "answer": "2006",
+        "correct": true
+      },
+      {
+        "answer": "2010",
+        "correct": false
+      },
+      {
+        "answer": "2012",
+        "correct": false
+      },
+      {
+        "answer": "2014",
+        "correct": false
+      },
+      {
+        "answer": "2016",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Against which team did Benfica record their biggest win in the UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Zenit St. Petersburg",
+        "correct": false
+      },
+      {
+        "answer": "AEK Athens",
+        "correct": true
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Galatasaray",
+        "correct": false
+      },
+      {
+        "answer": "Barcelona",
+        "correct": false
+      },
+      {
+        "answer": "PSV Eindhoven",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "Benfica recorded their biggest win in the UEFA Champions League group stage against AEK Athens, winning 6-1."
+  },
+  {
+    "question": "Who was Benfica's top scorer in the 2018-2019 UEFA Champions League season?",
+    "categories": [
+      "CL",
+      "portugal",
+      "topscorers"
+    ],
+    "answers": [
+      {
+        "answer": "João Félix",
+        "correct": true
+      },
+      {
+        "answer": "Haris Seferovic",
+        "correct": false
+      },
+      {
+        "answer": "Pizzi",
+        "correct": false
+      },
+      {
+        "answer": "Rafa Silva",
+        "correct": false
+      },
+      {
+        "answer": "Eduardo Salvio",
+        "correct": false
+      },
+      {
+        "answer": "Franco Cervi",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Which goalkeeper played a crucial role for Benfica during their 2011-2012 UEFA Champions League campaign reaching the quarter-finals?",
+    "categories": [
+      "CL",
+      "portugal",
+      "players"
+    ],
+    "answers": [
+      {
+        "answer": "Julio Cesar",
+        "correct": false
+      },
+      {
+        "answer": "Ederson",
+        "correct": false
+      },
+      {
+        "answer": "Jan Oblak",
+        "correct": false
+      },
+      {
+        "answer": "Artur",
+        "correct": true
+      },
+      {
+        "answer": "Mile Svilar",
+        "correct": false
+      },
+      {
+        "answer": "Odisseas Vlachodimos",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In which season did Benfica face off against Manchester United in the UEFA Champions League group stage, finishing with a memorable draw at Old Trafford?",
+    "categories": [
+      "CL",
+      "portugal",
+      "MUFC"
+    ],
+    "answers": [
+      {
+        "answer": "2005-2006",
+        "correct": false
+      },
+      {
+        "answer": "2006-2007",
+        "correct": false
+      },
+      {
+        "answer": "2011-2012",
+        "correct": true
+      },
+      {
+        "answer": "2013-2014",
+        "correct": false
+      },
+      {
+        "answer": "2015-2016",
+        "correct": false
+      },
+      {
+        "answer": "2017-2018",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": "Benfica faced off against Manchester United in the 2011-2012 UEFA Champions League group stage, finishing with a memorable 2-2 draw at Old Trafford."
+  },
+  {
+    "question": "Which player scored a crucial goal for Benfica in a UEFA Champions League knockout match against Zenit St. Petersburg in the 2015-2016 season?",
+    "categories": [
+      "CL",
+      "portugal",
+      "players"
+    ],
+    "answers": [
+      {
+        "answer": "Nico Gaitan",
+        "correct": false
+      },
+      {
+        "answer": "Jonas",
+        "correct": false
+      },
+      {
+        "answer": "Konstantinos Mitroglou",
+        "correct": true
+      },
+      {
+        "answer": "Andreas Samaris",
+        "correct": false
+      },
+      {
+        "answer": "Ljubomir Fejsa",
+        "correct": false
+      },
+      {
+        "answer": "Pizzi",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Who scored Sporting Lisbon's first goal in the UEFA Champions League group stage after their long absence, marking their return in the 2014-2015 season?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Islam Slimani",
+        "correct": false
+      },
+      {
+        "answer": "Nani",
+        "correct": true
+      },
+      {
+        "answer": "Fredy Montero",
+        "correct": false
+      },
+      {
+        "answer": "Adrien Silva",
+        "correct": false
+      },
+      {
+        "answer": "João Mário",
+        "correct": false
+      },
+      {
+        "answer": "Carlos Mané",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In which season did Sporting Lisbon achieve their highest-ever finish in the UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "2006-2007",
+        "correct": false
+      },
+      {
+        "answer": "2008-2009",
+        "correct": true
+      },
+      {
+        "answer": "2014-2015",
+        "correct": false
+      },
+      {
+        "answer": "2017-2018",
+        "correct": false
+      },
+      {
+        "answer": "2020-2021",
+        "correct": false
+      },
+      {
+        "answer": "None, never advanced past group stage",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Which player was crucial in Sporting Lisbon's campaign during the 2008-2009 UEFA Champions League, contributing significantly with goals and assists?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Liedson",
+        "correct": true
+      },
+      {
+        "answer": "Miguel Veloso",
+        "correct": false
+      },
+      {
+        "answer": "Bruno Fernandes",
+        "correct": false
+      },
+      {
+        "answer": "Simon Vukčević",
+        "correct": false
+      },
+      {
+        "answer": "João Moutinho",
+        "correct": false
+      },
+      {
+        "answer": "Yannick Djaló",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Against which team did Sporting Lisbon record their biggest away win in the UEFA Champions League as of 2023?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Olympiakos",
+        "correct": true
+      },
+      {
+        "answer": "Besiktas",
+        "correct": false
+      },
+      {
+        "answer": "Schalke 04",
+        "correct": false
+      },
+      {
+        "answer": "Legia Warsaw",
+        "correct": false
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Juventus",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Which Sporting Lisbon player received a red card in a crucial UEFA Champions League match against Chelsea in the 2014-2015 season?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "William Carvalho",
+        "correct": false
+      },
+      {
+        "answer": "Marcos Rojo",
+        "correct": false
+      },
+      {
+        "answer": "Islam Slimani",
+        "correct": false
+      },
+      {
+        "answer": "Adrien Silva",
+        "correct": true
+      },
+      {
+        "answer": "Nani",
+        "correct": false
+      },
+      {
+        "answer": "Sebastián Coates",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "What was the outcome of Sporting Lisbon's first UEFA Champions League group stage match after their return in the 2007-2008 season?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Win against Inter Milan",
+        "correct": false
+      },
+      {
+        "answer": "Draw with Manchester United",
+        "correct": true
+      },
+      {
+        "answer": "Loss to Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Win against Dynamo Kyiv",
+        "correct": false
+      },
+      {
+        "answer": "Draw with Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "Loss to CSKA Moscow",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Who was the manager of Sporting Lisbon during their memorable 2008-2009 UEFA Champions League run to the knockout stages?",
+    "categories": [
+      "CL",
+      "portugal"
+    ],
+    "answers": [
+      {
+        "answer": "Paulo Bento",
+        "correct": true
+      },
+      {
+        "answer": "Jorge Jesus",
+        "correct": false
+      },
+      {
+        "answer": "Leonel Pontes",
+        "correct": false
+      },
+      {
+        "answer": "Marco Silva",
+        "correct": false
+      },
+      {
+        "answer": "Silas",
+        "correct": false
+      },
+      {
+        "answer": "Rúben Amorim",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Who was Sevilla FC's coach during their 2015-2016 UEFA Champions League campaign?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Jorge Sampaoli",
+        "correct": false
+      },
+      {
+        "answer": "Unai Emery",
+        "correct": true
+      },
+      {
+        "answer": "Julen Lopetegui",
+        "correct": false
+      },
+      {
+        "answer": "Vincenzo Montella",
+        "correct": false
+      },
+      {
+        "answer": "Joachim Löw",
+        "correct": false
+      },
+      {
+        "answer": "Pablo Machín",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Against which team did Sevilla FC secure their first ever UEFA Champions League group stage win?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "AZ Alkmaar",
+        "correct": false
+      },
+      {
+        "answer": "Arsenal",
+        "correct": false
+      },
+      {
+        "answer": "AEK Athens",
+        "correct": true
+      },
+      {
+        "answer": "Rangers",
+        "correct": false
+      },
+      {
+        "answer": "Chelsea",
+        "correct": false
+      },
+      {
+        "answer": "Borussia Dortmund",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Which Sevilla FC player was the top scorer in their 2017-2018 UEFA Champions League campaign?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Wissam Ben Yedder",
+        "correct": true
+      },
+      {
+        "answer": "Luis Muriel",
+        "correct": false
+      },
+      {
+        "answer": "Ever Banega",
+        "correct": false
+      },
+      {
+        "answer": "Franco Vázquez",
+        "correct": false
+      },
+      {
+        "answer": "Nolito",
+        "correct": false
+      },
+      {
+        "answer": "Jesus Navas",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In which season did Sevilla FC reach the UEFA Champions League quarter-finals for the first time?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "2007-2008",
+        "correct": false
+      },
+      {
+        "answer": "2010-2011",
+        "correct": false
+      },
+      {
+        "answer": "2017-2018",
+        "correct": true
+      },
+      {
+        "answer": "2015-2016",
+        "correct": false
+      },
+      {
+        "answer": "2012-2013",
+        "correct": false
+      },
+      {
+        "answer": "2019-2020",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "What was the result of Sevilla FC's first ever UEFA Champions League match?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Win",
+        "correct": false
+      },
+      {
+        "answer": "Draw",
+        "correct": true
+      },
+      {
+        "answer": "Loss",
+        "correct": false
+      },
+      {
+        "answer": "Match was postponed",
+        "correct": false
+      },
+      {
+        "answer": "Match was cancelled",
+        "correct": false
+      },
+      {
+        "answer": "Match was interrupted by fans",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": "Sevilla FC's first ever UEFA Champions League match ended in a 0-0 draw against Arsenal."
+  },
+  {
+    "question": "Who scored Sevilla FC's first goal in the UEFA Champions League?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Frederic Kanoute",
+        "correct": true
+      },
+      {
+        "answer": "Luis Fabiano",
+        "correct": false
+      },
+      {
+        "answer": "Jesus Navas",
+        "correct": false
+      },
+      {
+        "answer": "Ivan Rakitić",
+        "correct": false
+      },
+      {
+        "answer": "Éver Banega",
+        "correct": false
+      },
+      {
+        "answer": "Youssef En-Nesyri",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Which Turkish team eliminated Sevilla FC from their debut UEFA Champions League campaign?",
+    "categories": [
+      "CL",
+      "spain",
+      "turkey"
+    ],
+    "answers": [
+      {
+        "answer": "Fenerbahçe",
+        "correct": true
+      },
+      {
+        "answer": "Galatasaray",
+        "correct": false
+      },
+      {
+        "answer": "Beşiktaş",
+        "correct": false
+      },
+      {
+        "answer": "Trabzonspor",
+        "correct": false
+      },
+      {
+        "answer": "Bursaspor",
+        "correct": false
+      },
+      {
+        "answer": "Konyaspor",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "In which season did Sevilla FC achieve their highest number of points in a UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "2009-2010",
+        "correct": false
+      },
+      {
+        "answer": "2010-2011",
+        "correct": false
+      },
+      {
+        "answer": "2015-2016",
+        "correct": false
+      },
+      {
+        "answer": "2017-2018",
+        "correct": true
+      },
+      {
+        "answer": "2019-2020",
+        "correct": false
+      },
+      {
+        "answer": "2020-2021",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Sevilla FC achieved their highest number of points in a UEFA Champions League group stage in the 2017-2018 season, finishing with 9 points."
+  },
+  {
+    "question": "Who scored Valencia CF's first ever goal in the UEFA Champions League?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Gaizka Mendieta",
+        "correct": false
+      },
+      {
+        "answer": "Pablo Aimar",
+        "correct": false
+      },
+      {
+        "answer": "Claudio López",
+        "correct": true
+      },
+      {
+        "answer": "David Villa",
+        "correct": false
+      },
+      {
+        "answer": "Miguel Ángel Angulo",
+        "correct": false
+      },
+      {
+        "answer": "Fernando Morientes",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": "Claudio López scored Valencia CF's first ever goal in the UEFA Champions League, in a 1-1 draw against Rangers in the 1999-2000 season."
+  },
+  {
+    "question": "In which season did Valencia CF reach the UEFA Champions League final for the first time?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "1998-1999",
+        "correct": false
+      },
+      {
+        "answer": "1999-2000",
+        "correct": true
+      },
+      {
+        "answer": "2000-2001",
+        "correct": false
+      },
+      {
+        "answer": "2001-2002",
+        "correct": false
+      },
+      {
+        "answer": "2002-2003",
+        "correct": false
+      },
+      {
+        "answer": "2003-2004",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Valencia CF reached the UEFA Champions League final for the first time in the 1999-2000 season, losing to Real Madrid."
+  },
+  {
+    "question": "Which team did Valencia CF defeat to win their group in the 2002-2003 UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": true
+      },
+      {
+        "answer": "Arsenal",
+        "correct": false
+      },
+      {
+        "answer": "Inter Milan",
+        "correct": false
+      },
+      {
+        "answer": "Ajax",
+        "correct": false
+      },
+      {
+        "answer": "Lazio",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Who was Valencia CF's top scorer in the 2019-2020 UEFA Champions League campaign?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Rodrigo Moreno",
+        "correct": true
+      },
+      {
+        "answer": "Kevin Gameiro",
+        "correct": false
+      },
+      {
+        "answer": "Maxi Gómez",
+        "correct": false
+      },
+      {
+        "answer": "Ferran Torres",
+        "correct": false
+      },
+      {
+        "answer": "Dani Parejo",
+        "correct": false
+      },
+      {
+        "answer": "Gonçalo Guedes",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Which goalkeeper played a crucial role for Valencia CF during their 1999-2000 UEFA Champions League run to the final?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Santiago Cañizares",
+        "correct": true
+      },
+      {
+        "answer": "Andrés Palop",
+        "correct": false
+      },
+      {
+        "answer": "César Sánchez",
+        "correct": false
+      },
+      {
+        "answer": "Diego Alves",
+        "correct": false
+      },
+      {
+        "answer": "Vicente Guaita",
+        "correct": false
+      },
+      {
+        "answer": "Jaume Doménech",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "In the 2000-2001 UEFA Champions League, Valencia CF reached the final but lost to which team?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      },
+      {
+        "answer": "AC Milan",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": true
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "Juventus",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Valencia CF reached the 2000-2001 UEFA Champions League final but lost to Bayern Munich."
+  },
+  {
+    "question": "How many times had Valencia CF participated in the UEFA Champions League group stage by the end of the 2024 season?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "9",
+        "correct": false
+      },
+      {
+        "answer": "10",
+        "correct": false
+      },
+      {
+        "answer": "11",
+        "correct": true
+      },
+      {
+        "answer": "12",
+        "correct": false
+      },
+      {
+        "answer": "13",
+        "correct": false
+      },
+      {
+        "answer": "14",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": ""
+  },
+  {
+    "question": "Which player scored the winning goal for Valencia CF in their memorable 2001 UEFA Champions League semi-final match against Leeds United?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Gaizka Mendieta",
+        "correct": false
+      },
+      {
+        "answer": "Juan Sánchez",
+        "correct": true
+      },
+      {
+        "answer": "Rubén Baraja",
+        "correct": false
+      },
+      {
+        "answer": "Pablo Aimar",
+        "correct": false
+      },
+      {
+        "answer": "David Albelda",
+        "correct": false
+      },
+      {
+        "answer": "Vicente Rodríguez",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Against which team did Valencia CF record their biggest win in the UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Olympiakos",
+        "correct": false
+      },
+      {
+        "answer": "BATE Borisov",
+        "correct": true
+      },
+      {
+        "answer": "Lille",
+        "correct": false
+      },
+      {
+        "answer": "Genk",
+        "correct": false
+      },
+      {
+        "answer": "Maribor",
+        "correct": false
+      },
+      {
+        "answer": "Besiktas",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Valencia CF recorded their biggest win in the UEFA Champions League group stage against BATE Borisov, winning 3-0. This match took place in the 2012-2013 season."
+  },
+  {
+    "question": "Who was the manager of Valencia CF when they reached the UEFA Champions League final in the 1999-2000 season?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Héctor Cúper",
+        "correct": true
+      },
+      {
+        "answer": "Rafa Benítez",
+        "correct": false
+      },
+      {
+        "answer": "Claudio Ranieri",
+        "correct": false
+      },
+      {
+        "answer": "Quique Sánchez Flores",
+        "correct": false
+      },
+      {
+        "answer": "Unai Emery",
+        "correct": false
+      },
+      {
+        "answer": "Marcelino García Toral",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Héctor Cúper was the manager of Valencia CF when they reached the UEFA Champions League final in the 1999-2000 season. Valencia CF lost to Real Madrid in the final."
+  },
+  {
+    "question": "In which season did Valencia CF make their most recent appearance in the UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "2017-2018",
+        "correct": false
+      },
+      {
+        "answer": "2018-2019",
+        "correct": false
+      },
+      {
+        "answer": "2019-2020",
+        "correct": true
+      },
+      {
+        "answer": "2020-2021",
+        "correct": false
+      },
+      {
+        "answer": "2021-2022",
+        "correct": false
+      },
+      {
+        "answer": "2022-2023",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "What color is primarily associated with Real Madrid's home kit?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Red",
+        "correct": false
+      },
+      {
+        "answer": "Blue",
+        "correct": false
+      },
+      {
+        "answer": "Green",
+        "correct": false
+      },
+      {
+        "answer": "White",
+        "correct": true
+      },
+      {
+        "answer": "Black",
+        "correct": false
+      },
+      {
+        "answer": "Yellow",
+        "correct": false
+      }
+    ],
+    "level": 0,
+    "note": null
+  },
+  {
+    "question": "In which city is Real Madrid based?",
+    "categories": [
+      "CL",
+      "spain"
+    ],
+    "answers": [
+      {
+        "answer": "Barcelona",
+        "correct": false
+      },
+      {
+        "answer": "Madrid",
+        "correct": true
+      },
+      {
+        "answer": "Valencia",
+        "correct": false
+      },
+      {
+        "answer": "Seville",
+        "correct": false
+      },
+      {
+        "answer": "Bilbao",
+        "correct": false
+      },
+      {
+        "answer": "Malaga",
+        "correct": false
+      }
+    ],
+    "level": 0,
+    "note": null
+  },
+  {
+    "question": "Who scored Real Madrid's winning goal in the 2014 UEFA Champions League final?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale",
+        "correct": true
+      },
+      {
+        "answer": "Karim Benzema",
+        "correct": false
+      },
+      {
+        "answer": "Angel Di Maria",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Which team did Real Madrid defeat to win their 10th UEFA Champions League title?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Atletico Madrid",
+        "correct": true
+      },
+      {
+        "answer": "Juventus",
+        "correct": false
+      },
+      {
+        "answer": "Manchester United",
+        "correct": false
+      },
+      {
+        "answer": "Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Chelsea",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "In what year did Real Madrid win their first UEFA Champions League title in color television era?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "1960",
+        "correct": false
+      },
+      {
+        "answer": "1998",
+        "correct": true
+      },
+      {
+        "answer": "2002",
+        "correct": false
+      },
+      {
+        "answer": "1956",
+        "correct": false
+      },
+      {
+        "answer": "2014",
+        "correct": false
+      },
+      {
+        "answer": "1986",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player scored a hat-trick against Galatasaray in the 2013-2014 UEFA Champions League group stage?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": true
+      },
+      {
+        "answer": "Gareth Bale",
+        "correct": false
+      },
+      {
+        "answer": "Isco",
+        "correct": false
+      },
+      {
+        "answer": "James Rodriguez",
+        "correct": false
+      },
+      {
+        "answer": "Alvaro Morata",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Who was the captain of Real Madrid when they won their first UEFA Champions League title of the 21st century?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Fernando Hierro",
+        "correct": true
+      },
+      {
+        "answer": "Iker Casillas",
+        "correct": false
+      },
+      {
+        "answer": "Raul Gonzalez",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Roberto Carlos",
+        "correct": false
+      },
+      {
+        "answer": "Luis Figo",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In which season did Real Madrid achieve a record of winning all six group stage matches in the UEFA Champions League?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "2011-2012",
+        "correct": false
+      },
+      {
+        "answer": "2014-2015",
+        "correct": true
+      },
+      {
+        "answer": "2016-2017",
+        "correct": false
+      },
+      {
+        "answer": "2002-2003",
+        "correct": false
+      },
+      {
+        "answer": "1998-1999",
+        "correct": false
+      },
+      {
+        "answer": "2000-2001",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player scored the decisive penalty in the 2016 UEFA Champions League final shootout?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": true
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      },
+      {
+        "answer": "Toni Kroos",
+        "correct": false
+      },
+      {
+        "answer": "Marcelo",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "What is the nickname of Real Madrid?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "The Gunners",
+        "correct": false
+      },
+      {
+        "answer": "The Reds",
+        "correct": false
+      },
+      {
+        "answer": "Los Blancos",
+        "correct": true
+      },
+      {
+        "answer": "The Blues",
+        "correct": false
+      },
+      {
+        "answer": "The Citizens",
+        "correct": false
+      },
+      {
+        "answer": "Rossoneri",
+        "correct": false
+      }
+    ],
+    "level": 1,
+    "note": null
+  },
+  {
+    "question": "Which stadium is the home ground of Real Madrid?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Camp Nou",
+        "correct": false
+      },
+      {
+        "answer": "Santiago Bernabéu Stadium",
+        "correct": true
+      },
+      {
+        "answer": "Anfield",
+        "correct": false
+      },
+      {
+        "answer": "Old Trafford",
+        "correct": false
+      },
+      {
+        "answer": "Allianz Arena",
+        "correct": false
+      },
+      {
+        "answer": "San Siro",
+        "correct": false
+      }
+    ],
+    "level": 1,
+    "note": null
+  },
+  {
+    "question": "Who is Real Madrid's all-time top scorer?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Raúl González",
+        "correct": false
+      },
+      {
+        "answer": "Karim Benzema",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": true
+      },
+      {
+        "answer": "Ferenc Puskás",
+        "correct": false
+      },
+      {
+        "answer": "Alfredo Di Stéfano",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      }
+    ],
+    "level": 0,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player won the UEFA Men's Player of the Year award in 2018?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modrić",
+        "correct": true
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Karim Benzema",
+        "correct": false
+      },
+      {
+        "answer": "Toni Kroos",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "In which Champions League final did Real Madrid beat Juventus with a score of 4-1?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "2014",
+        "correct": false
+      },
+      {
+        "answer": "2016",
+        "correct": false
+      },
+      {
+        "answer": "2017",
+        "correct": true
+      },
+      {
+        "answer": "2018",
+        "correct": false
+      },
+      {
+        "answer": "2015",
+        "correct": false
+      },
+      {
+        "answer": "2013",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Who managed Real Madrid to their tenth Champions League title ('La Decima')?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "José Mourinho",
+        "correct": false
+      },
+      {
+        "answer": "Carlo Ancelotti",
+        "correct": true
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": false
+      },
+      {
+        "answer": "Rafa Benitez",
+        "correct": false
+      },
+      {
+        "answer": "Vicente del Bosque",
+        "correct": false
+      },
+      {
+        "answer": "Fabio Capello",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player was the first to win the UEFA Champions League Defender of the Season award?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Pepe",
+        "correct": false
+      },
+      {
+        "answer": "Marcelo",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": true
+      },
+      {
+        "answer": "Raphael Varane",
+        "correct": false
+      },
+      {
+        "answer": "Roberto Carlos",
+        "correct": false
+      },
+      {
+        "answer": "Fernando Hierro",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "In the 2001-2002 Champions League campaign, which Real Madrid player scored a spectacular volley in the final?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Raúl González",
+        "correct": false
+      },
+      {
+        "answer": "Roberto Carlos",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": true
+      },
+      {
+        "answer": "Luis Figo",
+        "correct": false
+      },
+      {
+        "answer": "Guti",
+        "correct": false
+      },
+      {
+        "answer": "Ivan Helguera",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player scored the fastest goal in Champions League history for the club?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema",
+        "correct": true
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale",
+        "correct": false
+      },
+      {
+        "answer": "Raúl González",
+        "correct": false
+      },
+      {
+        "answer": "Ruud van Nistelrooy",
+        "correct": false
+      },
+      {
+        "answer": "Robinho",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": "Karim Benzema scored the fastest goal in Champions League history for Real Madrid, finding the net after just 10.5 seconds in a match against Legia Warsaw in the 2016-2017 season."
+  },
+  {
+    "question": "Who was the manager of Real Madrid when they won their 11th UEFA Champions League title?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Carlo Ancelotti",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": true
+      },
+      {
+        "answer": "Rafa Benitez",
+        "correct": false
+      },
+      {
+        "answer": "José Mourinho",
+        "correct": false
+      },
+      {
+        "answer": "Fabio Capello",
+        "correct": false
+      },
+      {
+        "answer": "Vicente del Bosque",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player scored the winning goal in the 2014 UEFA Champions League final?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Cristiano Ronaldo",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale",
+        "correct": true
+      },
+      {
+        "answer": "Karim Benzema",
+        "correct": false
+      },
+      {
+        "answer": "Angel Di Maria",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Who was the manager of Real Madrid when they won their 12th UEFA Champions League title?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Carlo Ancelotti",
+        "correct": false
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "correct": true
+      },
+      {
+        "answer": "Rafa Benitez",
+        "correct": false
+      },
+      {
+        "answer": "José Mourinho",
+        "correct": false
+      },
+      {
+        "answer": "Fabio Capello",
+        "correct": false
+      },
+      {
+        "answer": "Vicente del Bosque",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "In the 2002 UEFA Champions League final, in which minute did Zinedine Zidane score his famous left-foot volley goal against Bayer Leverkusen?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "45th minute",
+        "correct": true
+      },
+      {
+        "answer": "53rd minute",
+        "correct": false
+      },
+      {
+        "answer": "67th minute",
+        "correct": false
+      },
+      {
+        "answer": "78th minute",
+        "correct": false
+      },
+      {
+        "answer": "89th minute",
+        "correct": false
+      },
+      {
+        "answer": "90+2nd minute",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": "The final was played at Hampden Park in Glasgow. Real Madrid won the match 2-1."
+  },
+  {
+    "question": "Who scored the decisive penalty for Real Madrid in the 2016 UEFA Champions League final, and in which minute of the penalty shootout did this occur?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Cristiano Ronaldo, 5th penalty",
+        "correct": true
+      },
+      {
+        "answer": "Sergio Ramos, 4th penalty",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale, 6th penalty",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo, 6th penalty",
+        "correct": false
+      },
+      {
+        "answer": "Toni Kroos, 5th penalty",
+        "correct": false
+      },
+      {
+        "answer": "Karim Benzema, 6th penalty",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": "The final was against Atletico Madrid."
+  },
+  {
+    "question": "In which minute did Sergio Ramos score his equalizing header against Atletico Madrid in the 2014 UEFA Champions League final?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "90+3rd minute",
+        "correct": true
+      },
+      {
+        "answer": "88th minute",
+        "correct": false
+      },
+      {
+        "answer": "90th minute",
+        "correct": false
+      },
+      {
+        "answer": "90+1st minute",
+        "correct": false
+      },
+      {
+        "answer": "90+5th minute",
+        "correct": false
+      },
+      {
+        "answer": "Full time",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Which Real Madrid player scored the opening goal in the 2018 UEFA Champions League final, and in which minute?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema, 51st minute",
+        "correct": true
+      },
+      {
+        "answer": "Gareth Bale, 64th minute",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo, 23rd minute",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo, 78th minute",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos, 35th minute",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos, 42nd minute",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  }
 ]
