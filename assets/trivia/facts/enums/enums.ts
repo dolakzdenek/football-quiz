@@ -1,4 +1,4 @@
-const categories = [
+export const categories = [
   "Ballon d'Or",
   'Bundesliga',
   'CL',

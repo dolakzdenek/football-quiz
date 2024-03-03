@@ -4987,5 +4987,581 @@
     ],
     "level": 5,
     "note": null
+  },
+  {
+    "question": "Who scored the only goal in Real Madrid's victory against Liverpool in the 2018 UEFA Champions League final, and in which minute?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Gareth Bale, 64th minute",
+        "correct": true
+      },
+      {
+        "answer": "Karim Benzema, 51st minute",
+        "correct": false
+      },
+      {
+        "answer": "Cristiano Ronaldo, 23rd minute",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos, 83rd minute",
+        "correct": false
+      },
+      {
+        "answer": "Vinícius Júnior, 59th minute",
+        "correct": false
+      },
+      {
+        "answer": "Marco Asensio, 73rd minute",
+        "correct": false
+      }
+    ],
+    "level": 4,
+    "note": null
+  },
+  {
+    "question": "In the 2016-2017 UEFA Champions League group stage, Real Madrid played against Borussia Dortmund at Signal Iduna Park. What was the final score, and who scored the equalizer for Dortmund?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "2-2, André Schürrle",
+        "correct": true
+      },
+      {
+        "answer": "1-1, Marco Reus",
+        "correct": false
+      },
+      {
+        "answer": "3-3, Pierre-Emerick Aubameyang",
+        "correct": false
+      },
+      {
+        "answer": "2-2, Christian Pulisic",
+        "correct": false
+      },
+      {
+        "answer": "1-1, Jadon Sancho",
+        "correct": false
+      },
+      {
+        "answer": "3-3, Erling Haaland",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "During the 2017-2018 UEFA Champions League semi-final second leg against Bayern Munich, which Real Madrid player scored the goal that secured their place in the final?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema, 46th minute",
+        "correct": true
+      },
+      {
+        "answer": "Cristiano Ronaldo, 90th minute",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Ramos, 33rd minute",
+        "correct": false
+      },
+      {
+        "answer": "Gareth Bale, 77th minute",
+        "correct": false
+      },
+      {
+        "answer": "Marco Asensio, 57th minute",
+        "correct": false
+      },
+      {
+        "answer": "Isco, 64th minute",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "What minute did Vinícius Júnior score against Liverpool in the 2020-2021 UEFA Champions League quarter-final first leg, and what was the final score of the match?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "27th minute, Real Madrid 3-1 Liverpool",
+        "correct": true
+      },
+      {
+        "answer": "15th minute, Real Madrid 2-0 Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "65th minute, Real Madrid 2-1 Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "45th minute, Real Madrid 4-2 Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "78th minute, Real Madrid 1-0 Liverpool",
+        "correct": false
+      },
+      {
+        "answer": "90th minute, Real Madrid 2-2 Liverpool",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Against which team did Real Madrid achieve a comeback win in the 2023-24 UEFA Champions League group stage at Stadio Diego Armando Maradona, and who scored the winning goal?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Napoli, Federico Valverde",
+        "correct": true
+      },
+      {
+        "answer": "Inter Milan, Rodrygo",
+        "correct": false
+      },
+      {
+        "answer": "Paris Saint-Germain, Karim Benzema",
+        "correct": false
+      },
+      {
+        "answer": "Manchester City, Vinícius Júnior",
+        "correct": false
+      },
+      {
+        "answer": "Chelsea, Eder Militao",
+        "correct": false
+      },
+      {
+        "answer": "Juventus, Marco Asensio",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": "This refers to the Napoli vs Real Madrid match in the 2023/24 season."
+  },
+  {
+    "question": "Who scored the opening goal for Real Madrid in the 2020-2021 UEFA Champions League semi-final second leg against Chelsea?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema",
+        "correct": true
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      },
+      {
+        "answer": "Vinícius Júnior",
+        "correct": false
+      },
+      {
+        "answer": "Federico Valverde",
+        "correct": false
+      },
+      {
+        "answer": "Eden Hazard",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "In the 2019-2020 UEFA Champions League round of 16 second leg against Manchester City, who scored the opening goal for Real Madrid?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema",
+        "correct": true
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      },
+      {
+        "answer": "Vinícius Júnior",
+        "correct": false
+      },
+      {
+        "answer": "Federico Valverde",
+        "correct": false
+      },
+      {
+        "answer": "Eden Hazard",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "Who scored the opening goal for Real Madrid in the 2018-2019 UEFA Champions League semi-final second leg against Ajax?",
+    "categories": [
+      "CL",
+      "spain",
+      "RM"
+    ],
+    "answers": [
+      {
+        "answer": "Karim Benzema",
+        "correct": true
+      },
+      {
+        "answer": "Sergio Ramos",
+        "correct": false
+      },
+      {
+        "answer": "Luka Modric",
+        "correct": false
+      },
+      {
+        "answer": "Vinícius Júnior",
+        "correct": false
+      },
+      {
+        "answer": "Federico Valverde",
+        "correct": false
+      },
+      {
+        "answer": "Eden Hazard",
+        "correct": false
+      }
+    ],
+    "level": 5,
+    "note": null
+  },
+  {
+    "question": "How many times has FC Barcelona won the UEFA Champions League?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "3 times",
+        "correct": false
+      },
+      {
+        "answer": "5 times",
+        "correct": true
+      },
+      {
+        "answer": "4 times",
+        "correct": false
+      },
+      {
+        "answer": "6 times",
+        "correct": false
+      },
+      {
+        "answer": "2 times",
+        "correct": false
+      },
+      {
+        "answer": "7 times",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Who scored the winning goal for FC Barcelona in the 2006 UEFA Champions League Final?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "Ronaldinho",
+        "correct": false
+      },
+      {
+        "answer": "Samuel Eto'o",
+        "correct": false
+      },
+      {
+        "answer": "Juliano Belletti",
+        "correct": true
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Xavi Hernandez",
+        "correct": false
+      },
+      {
+        "answer": "Andres Iniesta",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "In which year did FC Barcelona win their first UEFA Champions League title?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "1992",
+        "correct": true
+      },
+      {
+        "answer": "1982",
+        "correct": false
+      },
+      {
+        "answer": "2002",
+        "correct": false
+      },
+      {
+        "answer": "2012",
+        "correct": false
+      },
+      {
+        "answer": "2006",
+        "correct": false
+      },
+      {
+        "answer": "1999",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Which coach led FC Barcelona to their 2009 UEFA Champions League victory?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "Frank Rijkaard",
+        "correct": false
+      },
+      {
+        "answer": "Pep Guardiola",
+        "correct": true
+      },
+      {
+        "answer": "Luis Enrique",
+        "correct": false
+      },
+      {
+        "answer": "Ernesto Valverde",
+        "correct": false
+      },
+      {
+        "answer": "Tito Vilanova",
+        "correct": false
+      },
+      {
+        "answer": "Quique Setién",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Who scored Barcelona's second goal in the 2011 UEFA Champions League Final against Manchester United?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "David Villa",
+        "correct": true
+      },
+      {
+        "answer": "Pedro",
+        "correct": false
+      },
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Busquets",
+        "correct": false
+      },
+      {
+        "answer": "Andres Iniesta",
+        "correct": false
+      },
+      {
+        "answer": "Xavi Hernandez",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Against which team did FC Barcelona complete the biggest comeback in UEFA Champions League history in 2017?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "AC Milan",
+        "correct": false
+      },
+      {
+        "answer": "Paris Saint-Germain",
+        "correct": true
+      },
+      {
+        "answer": "Chelsea",
+        "correct": false
+      },
+      {
+        "answer": "Bayern Munich",
+        "correct": false
+      },
+      {
+        "answer": "Arsenal",
+        "correct": false
+      },
+      {
+        "answer": "Real Madrid",
+        "correct": false
+      }
+    ],
+    "level": 2,
+    "note": null
+  },
+  {
+    "question": "Which Barcelona player holds the record for the most appearances in the UEFA Champions League?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "Lionel Messi",
+        "correct": false
+      },
+      {
+        "answer": "Xavi Hernandez",
+        "correct": true
+      },
+      {
+        "answer": "Andres Iniesta",
+        "correct": false
+      },
+      {
+        "answer": "Sergio Busquets",
+        "correct": false
+      },
+      {
+        "answer": "Gerard Piqué",
+        "correct": false
+      },
+      {
+        "answer": "Carles Puyol",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "In what year did Lionel Messi score his first UEFA Champions League goal for FC Barcelona?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "2004",
+        "correct": false
+      },
+      {
+        "answer": "2005",
+        "correct": true
+      },
+      {
+        "answer": "2006",
+        "correct": false
+      },
+      {
+        "answer": "2007",
+        "correct": false
+      },
+      {
+        "answer": "2008",
+        "correct": false
+      },
+      {
+        "answer": "2009",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
+  },
+  {
+    "question": "Which FC Barcelona player scored a memorable overhead kick in the UEFA Champions League?",
+    "categories": ["CL", "spain", "FCB"],
+    "answers": [
+      {
+        "answer": "Rivaldo",
+        "correct": true
+      },
+      {
+        "answer": "Ronaldinho",
+        "correct": false
+      },
+      {
+        "answer": "Luis Suarez",
+        "correct": false
+      },
+      {
+        "answer": "Samuel Eto'o",
+        "correct": false
+      },
+      {
+        "answer": "David Villa",
+        "correct": false
+      },
+      {
+        "answer": "Thierry Henry",
+        "correct": false
+      }
+    ],
+    "level": 3,
+    "note": null
   }
 ]

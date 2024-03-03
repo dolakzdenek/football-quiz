@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useCallback, useEffect, useState } from 'react'
 import { View, StyleSheet, FlatList } from 'react-native'
 import { MainBox } from '../components/MainBox'
 import { MainText } from '../components/MainText'
@@ -8,42 +8,58 @@ import { Button } from '../components/Button'
 import quizList from '../../assets/trivia/facts/quizList.json'
 import { createStackNavigator } from '@react-navigation/stack';
 import { levels } from '../../assets/trivia/facts/enums/enums'
+import { Scoreboard } from '../components/misc/Scoreboard'
 
 
 
 const Quiz = (props) => {
   const quizId = props.route.params.id
-  const quiz = getMashedQuizData({ id: quizId })
   const quizFromList = quizList.find(quiz => quiz.id === quizId)
   const Stack = createStackNavigator();
   const [score, setScore] = React.useState<Number>(0)
+  const [quiz, setQuiz] = React.useState([])
+  const navigation = useNavigation()
 
-  const onFinalAnswer = (answer, level) => {
-    if (answer.correct) {
-      setScore(score + levels.find(l => l.id === level).score)
+  useEffect(() => {
+    setQuiz(getMashedQuizData({ id: quizId }))
+    return () => {
+      setQuiz([])
+      setScore(0)
     }
+  }, [])
+
+
+  const onFinalAnswer = ({ answer, level, questionProps, index }) => {
+    const calculatedScore = score + (levels.find(l => l.id === level).score * Number(answer.correct))
+    setScore(calculatedScore)
+    if (index + 1 === quiz.length) {
+      return navigation.navigate('QuizResult', { score: calculatedScore })
+    }
+    return questionProps.navigation.navigate(`Question ${index + 2}`)
   }
 
   if (quiz.length === 0) {
     return (
       <MainBox>
-        <MainText variant='header'>No questions found</MainText>
+        <MainText variant={'header'}>No questions found</MainText>
       </MainBox>
     )
   }
 
   return (
     <MainBox>
-      <MainText variant='header'>{quizFromList.name}</MainText>
-      <MainText>{score.toString()}</MainText>
+      <MainText variant={'header'}>{quizFromList.name}</MainText>
+      <Scoreboard score={score} />
 
-      <Stack.Navigator>
+      <Stack.Navigator
+        screenOptions={{ headerLeft: null, headerShown: false }} // Add this line to prevent going back
+      >
         {quiz.map((question, index) => (
           <Stack.Screen
             key={index}
             name={`Question ${index + 1}`}
           >
-            {props => <QAView question={question} onFinalAnswer={onFinalAnswer} />}
+            {questionProps => <QAView question={question} onFinalAnswer={(finalAnswerProps) => onFinalAnswer({ ...finalAnswerProps, questionProps, index })} />}
           </Stack.Screen>
         ))}
       </Stack.Navigator>
@@ -53,12 +69,28 @@ const Quiz = (props) => {
 
 
 const QAView = ({ question, onFinalAnswer }) => {
+  const [selectedAnswer, setSelectedAnswer] = useState(null)
+
+  useEffect(() => {
+    return () => {
+      setSelectedAnswer(null)
+    }
+  }, [])
+
+
+  const answerColor = useCallback(({ answer }) => {
+    if (selectedAnswer?.answer === answer) {
+      return 'selected'
+    }
+    return 'cardPrimaryBackground'
+  }, [selectedAnswer])
+
 
   const onAnswer = (item) => {
-
-    
-
-    //onFinalAnswer(item, question.level)
+    if (selectedAnswer?.answer === item?.answer) {
+      return onFinalAnswer({ answer: item, ...question })
+    }
+    setSelectedAnswer(item)
   }
 
   return (
@@ -67,7 +99,7 @@ const QAView = ({ question, onFinalAnswer }) => {
       <FlatList
         data={question.answers}
         renderItem={({ item }) => (
-          <Button label={item.answer} onPress={() => onAnswer(item)} />
+          <Button label={item.answer} onPress={() => onAnswer(item)} backgroundColor={answerColor(item)} />
         )}
       />
     </MainBox>

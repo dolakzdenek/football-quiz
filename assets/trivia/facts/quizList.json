@@ -1,5 +1,20 @@
 [
   {
+    "id": 0,
+    "name": "Test",
+    "categories": [
+      "all"
+    ],
+    "numberOfQ": 2,
+    "levels": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
     "id": 1,
     "name": "Very Easy International",
     "categories": [
@@ -10,9 +25,7 @@
     "numberOfQ": 10,
     "levels": [
       0
-    ],
-    "note": "This quiz is for beginners. It contains questions about international football.",
-    "image": "assets/trivia/images/quiz1.jpg"
+    ]
   },
   {
     "id": 2,
@@ -26,7 +39,6 @@
     "levels": [
       1
     ],
-    "note": "This quiz is for beginners. It contains questions about international football.",
     "image": "assets/trivia/images/quiz2.jpg"
   },
   {
@@ -40,9 +52,7 @@
     "numberOfQ": 15,
     "levels": [
       2
-    ],
-    "note": "This quiz is for beginners. It contains questions about international football.",
-    "image": "assets/trivia/images/quiz3.jpg"
+    ]
   },
   {
     "id": 4,
@@ -55,9 +65,7 @@
     "numberOfQ": 2,
     "levels": [
       3
-    ],
-    "note": "This quiz is for beginners. It contains questions about international football.",
-    "image": "assets/trivia/images/quiz4.jpg"
+    ]
   },
   {
     "id": 5,
@@ -71,8 +79,6 @@
     "numberOfA": 6,
     "levels": [
       4
-    ],
-    "note": "This quiz is for beginners. It contains questions about international football.",
-    "image": "assets/trivia/images/quiz5.jpg"
+    ]
   }
 ]

@@ -22,6 +22,11 @@ const Landing = () => {
     navigation.navigate('QuizMenu')
   }
 
+  const openStats = () => {
+    console.log('Open Stats')
+    navigation.navigate('Stats')
+  }
+
   return (
     <>
       <MainBox>
@@ -51,6 +56,8 @@ const Landing = () => {
             </View>
           </View>
           <Button label="Start Quiz" onPress={startQuiz} />
+          <Button label="Statistics" onPress={openStats} />
+
         </View>
       </MainBox>
     </>
